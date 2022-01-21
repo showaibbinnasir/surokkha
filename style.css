@@ -1,0 +1,137 @@
+body{
+    background-color: #f8f9fa;;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-nav a{
+    font-size: 18px;
+}
+.navbar-nav a:hover{
+    border-bottom: 3px solid black;
+    font-weight: 600;
+}
+#lanbtn{
+    background-color: #f26d3e;
+    color: white;
+    border-radius: 5px;
+    padding: .3em .5em;
+}
+#lanbtn:hover{
+    background-color: red;
+    border: none;
+}
+.header{
+    display: block;
+    background-image: url("images/banner-bg.7358efba.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 550px;
+    background-position: 50%;
+}
+
+.part1{
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    padding: 30px 40px;
+    border-radius: 10px;
+    border-bottom: 5px solid blue;
+    transition: 0.8s;
+}
+.part1:hover{
+    background-color: rgb(195, 225, 235);
+}
+.footerpart{
+    text-align: center;
+}
+.vax{
+    margin-left: 10px;
+}
+
+.cardsec{
+    background-color: white;
+    height: 90px;
+    width: 400px;
+    border-radius: 10px;
+    border-left: 5px solid #0d7b2c;
+    margin-bottom: 13px;
+    transition: 0.8s;
+}
+.cardsec:hover{
+    background-color: rgb(236, 240, 180);
+}
+.lol{
+    list-style: none;
+}
+.listpart{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px lightgrey;
+}
+.listimg{
+    background-color: rgb(204, 202, 202);
+    width: 50px;
+    border-radius: 50%;
+    padding: 10px 10px;
+    margin-top: 10px;
+}
+
+.numbers{
+    color: green;
+    margin-top: 23px;
+    text-align: center;
+}
+
+.process{
+    border-left: 9px solid #f26d3e;
+    padding-left: 20px;
+}
+.processimg{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.ques{
+    background-color: white;
+    padding: 30px 50px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px lightgrey;
+}    
+
+.mujib{
+    text-align: center;
+}
+
+.footer{
+    background-color: #f26d3e;
+    height: 300px;
+    width: 100%;
+}
+.footeroption{
+    margin-top: 30px;
+}
+.footeroption a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 5px;
+    font-weight: 600;
+    transition: 0.8s;
+}
+.footeroption a:hover{
+    font-style:oblique;
+}
+
+.developer{
+    margin-top: 30px;
+}
+.icon i{
+    font-size: 50px;
+    margin: 0px 10px;
+}
+
+.icon{
+    text-align: center;
+    color: white;
+    
+}
